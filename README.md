@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/MatheusPrudente">
   <img width="48%" height ="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPrudente&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPrudente&langs_count=16"/>
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPrudente&langs_count=16&layout=compact"/>
 </div>
  
 ### ⚡  Tecnologias e ferramentas 
