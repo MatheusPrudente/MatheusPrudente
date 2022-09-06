@@ -20,8 +20,8 @@ public void createPerson() {
     if(!person.getCoffe().Empty()) {
       person.getCoffe().Drink();
     } else {
-      System.out.println("[error 404] checkPersonIsAlive : coffe not found");
-      System.out.println("[warning] checkPersonIsAlive : it is recommended to fill your coffee");
+      System.out.println("[error 404] createPerson : coffe not found");
+      System.out.println("[warning] createPerson : it is recommended to fill your coffee");
       person.getCoffe().Refill();
     }
   }
