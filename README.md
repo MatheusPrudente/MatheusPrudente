@@ -22,7 +22,7 @@ public void createPerson() {
       person.getCoffe().Drink();
     } else {
       System.out.println("[error 404] createPerson : coffe not found");
-      System.out.println("[warning] createPerson : it is recommended to fill your coffee");
+      System.out.println("[warning] createPerson : it is recommended to refill your coffee");
       person.getCoffe().Refill();
     }
   }
