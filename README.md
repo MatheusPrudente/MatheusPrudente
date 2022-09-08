@@ -6,25 +6,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPrudente&langs_count=6&layout=compact" style="max-width: 100%;"/>
   </a>
 </div>
-
-
-```Java
-public void createPerson() {
-  Person person = new Person();
-  
-  while(person.isAlive()) {
-    person.Eat();
-    person.Sleep();
-    person.Game();
-    person.Code();
-    
-    if(!person.getCoffe().Empty()) {
-      person.getCoffe().Drink();
-    } else {
-      System.out.println("[error 404] createPerson : coffe not found");
-      System.out.println("[warning] createPerson : it is recommended to refill your coffee");
-      person.getCoffe().Refill();
-    }
-  }
-}
-```
