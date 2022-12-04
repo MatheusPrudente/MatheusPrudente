@@ -12,7 +12,7 @@
 </picture>
 </a>
 
-  <h1> :toolbox: Ferramentas </h1>
+<h1> :toolbox: Ferramentas </h1>
 
 Algumas ferramentas interessantes : 
 
@@ -21,3 +21,9 @@ Algumas ferramentas interessantes :
 - Instantly parse JSON in any language | quicktype : https://app.quicktype.io
 - Readme.so : https://readme.so/
 - Editor.md - Open source online Markdown editor : https://pandao.github.io/editor.md/en.html
+
+  ##
+
+<div>
+  <a href="https://br.linkedin.com/in/matheus-prudente-88196a245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
